@@ -66,7 +66,7 @@
 /* ______AXIT block______ */
 
 .axit-block_bg_image {
-    background: linear-gradient(rgb( 0, 0, 0, 0.4), rgb( 0, 0, 0, 0.4)), url(/images/axit-block_bg_image.jpeg);
+    background: linear-gradient(rgb( 0, 0, 0, 0.4), rgb( 0, 0, 0, 0.4)), url(../images/axit-block_bg_image.jpeg);
 }
 
 .axit-block_bg {
